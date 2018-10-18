@@ -1,0 +1,6 @@
+D:\C#\飞行棋游戏\飞行棋游戏\bin\Debug\飞行棋游戏.exe.config
+D:\C#\飞行棋游戏\飞行棋游戏\bin\Debug\飞行棋游戏.exe
+D:\C#\飞行棋游戏\飞行棋游戏\bin\Debug\飞行棋游戏.pdb
+D:\C#\飞行棋游戏\飞行棋游戏\obj\Debug\飞行棋游戏.csprojResolveAssemblyReference.cache
+D:\C#\飞行棋游戏\飞行棋游戏\obj\Debug\飞行棋游戏.exe
+D:\C#\飞行棋游戏\飞行棋游戏\obj\Debug\飞行棋游戏.pdb
